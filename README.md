@@ -1,1 +1,1 @@
-# SpeakNaija
+# SpeakNaija PWA
